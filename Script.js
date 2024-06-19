@@ -1,5 +1,5 @@
 const images = [
-    { name: 'Guilherme Souza', src: 'imagens/GuilhermeSouza.jpg', beautiful: 0, ugly: 0 },
+    //{ name: 'Guilherme Souza', src: 'imagens/GuilhermeSouza.jpg', beautiful: 0, ugly: 0 },
     { name: 'Guilherme Kauan', src: 'imagens/GuilhermeKauan.jpg', beautiful: 0, ugly: 0 },
     { name: 'Vitoria Neves', src: 'imagens/VitoriaNeves.jpg', beautiful: 0, ugly: 0 },
     // { name: 'Osvaldo Coelho', src: 'imagens/Flor.jpeg.jpg', beautiful: 0, ugly: 0 },
